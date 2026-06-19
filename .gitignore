@@ -1,0 +1,19 @@
+# Local secrets / settings
+.env
+venv
+
+
+
+# Python stuff
+.venv/
+__pycache__/
+*.pyc
+
+# Local app data
+data/
+chroma_db/
+
+# OS / editor files
+.DS_Store
+.vscode/
+.idea/
